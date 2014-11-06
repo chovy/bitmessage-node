@@ -1,5 +1,6 @@
 bitmessage-node
 =========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/chovy/bitmessage-node?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 [![NPM](https://nodei.co/npm/bitmessage-node.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/bitmessage-node/)
